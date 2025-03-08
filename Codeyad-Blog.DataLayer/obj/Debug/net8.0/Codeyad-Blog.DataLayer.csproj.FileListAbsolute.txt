@@ -1,0 +1,14 @@
+C:\Users\Amir\source\repos\Codeyad_Blog4\Codeyad-Blog.DataLayer\obj\Debug\net8.0\Codeyad-Blog.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amir\source\repos\Codeyad_Blog4\Codeyad-Blog.DataLayer\obj\Debug\net8.0\Codeyad-Blog.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Amir\source\repos\Codeyad_Blog4\Codeyad-Blog.DataLayer\obj\Debug\net8.0\Codeyad-Blog.DataLayer.AssemblyInfo.cs
+C:\Users\Amir\source\repos\Codeyad_Blog4\Codeyad-Blog.DataLayer\obj\Debug\net8.0\Codeyad-Blog.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Amir\source\repos\Codeyad_Blog4\Codeyad-Blog.DataLayer\bin\Debug\net8.0\Codeyad-Blog.DataLayer.deps.json
+C:\Users\Amir\source\repos\Codeyad_Blog4\Codeyad-Blog.DataLayer\bin\Debug\net8.0\Codeyad-Blog.DataLayer.runtimeconfig.json
+C:\Users\Amir\source\repos\Codeyad_Blog4\Codeyad-Blog.DataLayer\bin\Debug\net8.0\Codeyad-Blog.DataLayer.dll
+C:\Users\Amir\source\repos\Codeyad_Blog4\Codeyad-Blog.DataLayer\bin\Debug\net8.0\Codeyad-Blog.DataLayer.pdb
+C:\Users\Amir\source\repos\Codeyad_Blog4\Codeyad-Blog.DataLayer\obj\Debug\net8.0\Codeyad-Blog.DataLayer.csproj.AssemblyReference.cache
+C:\Users\Amir\source\repos\Codeyad_Blog4\Codeyad-Blog.DataLayer\obj\Debug\net8.0\Codeyad-Blog.DataLayer.dll
+C:\Users\Amir\source\repos\Codeyad_Blog4\Codeyad-Blog.DataLayer\obj\Debug\net8.0\refint\Codeyad-Blog.DataLayer.dll
+C:\Users\Amir\source\repos\Codeyad_Blog4\Codeyad-Blog.DataLayer\obj\Debug\net8.0\Codeyad-Blog.DataLayer.pdb
+C:\Users\Amir\source\repos\Codeyad_Blog4\Codeyad-Blog.DataLayer\obj\Debug\net8.0\Codeyad-Blog.DataLayer.genruntimeconfig.cache
+C:\Users\Amir\source\repos\Codeyad_Blog4\Codeyad-Blog.DataLayer\obj\Debug\net8.0\ref\Codeyad-Blog.DataLayer.dll

@@ -1,0 +1,17 @@
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\obj\Debug\net8.0\CodeYad-Blog.CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\obj\Debug\net8.0\CodeYad-Blog.CoreLayer.AssemblyInfoInputs.cache
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\obj\Debug\net8.0\CodeYad-Blog.CoreLayer.AssemblyInfo.cs
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\obj\Debug\net8.0\CodeYad-Blog.CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\bin\Debug\net8.0\CodeYad-Blog.CoreLayer.deps.json
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\bin\Debug\net8.0\CodeYad-Blog.CoreLayer.dll
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\bin\Debug\net8.0\CodeYad-Blog.CoreLayer.pdb
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\bin\Debug\net8.0\Codeyad-Blog.DataLayer.dll
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\bin\Debug\net8.0\Codeyad-Blog.DataLayer.pdb
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\obj\Debug\net8.0\CodeYad-Blog.CoreLayer.csproj.AssemblyReference.cache
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\obj\Debug\net8.0\CodeYad-Blog.CoreLayer.dll
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\obj\Debug\net8.0\refint\CodeYad-Blog.CoreLayer.dll
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\obj\Debug\net8.0\CodeYad-Blog.CoreLayer.pdb
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\obj\Debug\net8.0\ref\CodeYad-Blog.CoreLayer.dll
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\bin\Debug\net8.0\CodeYad-Blog.CoreLayer.runtimeconfig.json
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\obj\Debug\net8.0\CodeYad-Blog.CoreLayer.genruntimeconfig.cache
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\obj\Debug\net8.0\Codeyad-.8F8A36B9.Up2Date

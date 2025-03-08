@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\admin\build\.DS_Store" />
+    <None Include="wwwroot\admin\build\less\.DS_Store" />
+    <None Include="wwwroot\admin\dist\.DS_Store" />
+    <None Include="wwwroot\admin\dist\css\.DS_Store" />
+    <None Include="wwwroot\admin\dist\img\.DS_Store" />
+    <None Include="wwwroot\admin\dist\js\.DS_Store" />
+    <None Include="wwwroot\admin\plugins\.DS_Store" />
+    <None Include="wwwroot\admin\plugins\iCheck\.DS_Store" />
+    <None Include="wwwroot\admin\plugins\input-mask\.DS_Store" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Codeyad-Blog.CoreLayer\Codeyad-Blog.CoreLayer.csproj" />
+    <ProjectReference Include="..\CodeYad-Blog.CoreLayer\Codeyad_Blog4.CoreLayer.csproj" />
+    <ProjectReference Include="..\Codeyad-Blog.DataLayer\Codeyad-Blog.DataLayer.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\dist\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,1761 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\grunt\\.jshintrc",
+      "PackagePath": "staticwebassets\\admin\\build\\grunt\\.jshintrc"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\js\\.jscsrc",
+      "PackagePath": "staticwebassets\\admin\\build\\js\\.jscsrc"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\js\\.jshintrc",
+      "PackagePath": "staticwebassets\\admin\\build\\js\\.jshintrc"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\js\\BoxRefresh.js",
+      "PackagePath": "staticwebassets\\admin\\build\\js\\BoxRefresh.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\js\\BoxWidget.js",
+      "PackagePath": "staticwebassets\\admin\\build\\js\\BoxWidget.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\js\\ControlSidebar.js",
+      "PackagePath": "staticwebassets\\admin\\build\\js\\ControlSidebar.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\js\\DirectChat.js",
+      "PackagePath": "staticwebassets\\admin\\build\\js\\DirectChat.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\js\\Layout.js",
+      "PackagePath": "staticwebassets\\admin\\build\\js\\Layout.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\js\\PushMenu.js",
+      "PackagePath": "staticwebassets\\admin\\build\\js\\PushMenu.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\js\\TodoList.js",
+      "PackagePath": "staticwebassets\\admin\\build\\js\\TodoList.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\js\\Tree.js",
+      "PackagePath": "staticwebassets\\admin\\build\\js\\Tree.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\.csslintrc",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\.csslintrc"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\404_500_errors.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\404_500_errors.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\AdminLTE-without-plugins.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\AdminLTE-without-plugins.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\AdminLTE.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\AdminLTE.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\alerts.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\alerts.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\bootstrap-social.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\bootstrap-social.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\boxes.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\boxes.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\buttons.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\buttons.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\callout.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\callout.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\carousel.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\carousel.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\control-sidebar.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\control-sidebar.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\core.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\datepicker.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\datepicker.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\direct-chat.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\direct-chat.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\dropdown.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\dropdown.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\forms.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\forms.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\fullcalendar.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\fullcalendar.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\header.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\header.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\info-box.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\info-box.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\invoice.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\invoice.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\labels.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\labels.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\lockscreen.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\lockscreen.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\login_and_register.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\login_and_register.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\mailbox.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\mailbox.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\miscellaneous.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\miscellaneous.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\modal.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\modal.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\navs.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\navs.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\plugins.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\plugins.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\print.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\print.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\products.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\products.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\profile.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\profile.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\progress-bars.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\progress-bars.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\select2.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\select2.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\sidebar-mini.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\sidebar-mini.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\sidebar.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\sidebar.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\skins\\_all-skins.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\skins\\_all-skins.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\skins\\skin-black-light.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\skins\\skin-black-light.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\skins\\skin-black.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\skins\\skin-black.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\skins\\skin-blue-light.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\skins\\skin-blue-light.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\skins\\skin-blue.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\skins\\skin-blue.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\skins\\skin-green-light.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\skins\\skin-green-light.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\skins\\skin-green.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\skins\\skin-green.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\skins\\skin-purple-light.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\skins\\skin-purple-light.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\skins\\skin-purple.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\skins\\skin-purple.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\skins\\skin-red-light.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\skins\\skin-red-light.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\skins\\skin-red.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\skins\\skin-red.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\skins\\skin-yellow-light.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\skins\\skin-yellow-light.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\skins\\skin-yellow.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\skins\\skin-yellow.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\small-box.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\small-box.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\social-widgets.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\social-widgets.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\table.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\table.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\timeline.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\timeline.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\treeview.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\treeview.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\users-list.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\users-list.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\less\\variables.less",
+      "PackagePath": "staticwebassets\\admin\\build\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\scss\\_bootstrap_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\build\\scss\\_bootstrap_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\scss\\_bootstrap_variables_old2.scss",
+      "PackagePath": "staticwebassets\\admin\\build\\scss\\_bootstrap_variables_old2.scss"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\scss\\_header.scss",
+      "PackagePath": "staticwebassets\\admin\\build\\scss\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\build\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\build\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\AdminLTE.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\AdminLTE.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\alt\\AdminLTE-bootstrap-social.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\alt\\AdminLTE-bootstrap-social.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\alt\\AdminLTE-bootstrap-social.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\alt\\AdminLTE-bootstrap-social.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\alt\\AdminLTE-fullcalendar.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\alt\\AdminLTE-fullcalendar.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\alt\\AdminLTE-fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\alt\\AdminLTE-fullcalendar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\alt\\AdminLTE-select2.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\alt\\AdminLTE-select2.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\alt\\AdminLTE-select2.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\alt\\AdminLTE-select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\alt\\AdminLTE-without-plugins.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\alt\\AdminLTE-without-plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\alt\\AdminLTE-without-plugins.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\alt\\AdminLTE-without-plugins.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\customize-adminlte.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\customize-adminlte.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\persian-datepicker-0.4.5.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\persian-datepicker-0.4.5.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\rtl.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\skins\\_all-skins.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\_all-skins.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\skins\\_all-skins.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\_all-skins.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\skins\\skin-black-light.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-black-light.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\skins\\skin-black-light.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-black-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\skins\\skin-black.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-black.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\skins\\skin-black.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-black.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\skins\\skin-blue-light.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-blue-light.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\skins\\skin-blue-light.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-blue-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\skins\\skin-blue.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-blue.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\skins\\skin-blue.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-blue.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\skins\\skin-green-light.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-green-light.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\skins\\skin-green-light.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-green-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\skins\\skin-green.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-green.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\skins\\skin-green.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\skins\\skin-purple-light.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-purple-light.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\skins\\skin-purple-light.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-purple-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\skins\\skin-purple.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-purple.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\skins\\skin-purple.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-purple.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\skins\\skin-red-light.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-red-light.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\skins\\skin-red-light.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-red-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\skins\\skin-red.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-red.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\skins\\skin-red.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-red.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\skins\\skin-yellow-light.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-yellow-light.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\skins\\skin-yellow-light.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-yellow-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\skins\\skin-yellow.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-yellow.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\css\\skins\\skin-yellow.min.css",
+      "PackagePath": "staticwebassets\\admin\\dist\\css\\skins\\skin-yellow.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\admin\\dist\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\fonts\\Vazir-Bold-FD-WOL.eot",
+      "PackagePath": "staticwebassets\\admin\\dist\\fonts\\Vazir-Bold-FD-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\fonts\\Vazir-Bold-FD-WOL.ttf",
+      "PackagePath": "staticwebassets\\admin\\dist\\fonts\\Vazir-Bold-FD-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\fonts\\Vazir-Bold-FD-WOL.woff",
+      "PackagePath": "staticwebassets\\admin\\dist\\fonts\\Vazir-Bold-FD-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\fonts\\Vazir-FD-WOL.eot",
+      "PackagePath": "staticwebassets\\admin\\dist\\fonts\\Vazir-FD-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\fonts\\Vazir-FD-WOL.ttf",
+      "PackagePath": "staticwebassets\\admin\\dist\\fonts\\Vazir-FD-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\fonts\\Vazir-FD-WOL.woff",
+      "PackagePath": "staticwebassets\\admin\\dist\\fonts\\Vazir-FD-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\dist\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\admin\\dist\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\dist\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\dist\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\dist\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\fonts\\iranyekan\\eot\\iranyekanwebbold(fanum).eot",
+      "PackagePath": "staticwebassets\\admin\\dist\\fonts\\iranyekan\\eot\\iranyekanwebbold(fanum).eot"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\fonts\\iranyekan\\eot\\iranyekanweblight(fanum).eot",
+      "PackagePath": "staticwebassets\\admin\\dist\\fonts\\iranyekan\\eot\\iranyekanweblight(fanum).eot"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\fonts\\iranyekan\\eot\\iranyekanwebregular(fanum).eot",
+      "PackagePath": "staticwebassets\\admin\\dist\\fonts\\iranyekan\\eot\\iranyekanwebregular(fanum).eot"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\fonts\\iranyekan\\ttf\\iranyekanwebbold(fanum).ttf",
+      "PackagePath": "staticwebassets\\admin\\dist\\fonts\\iranyekan\\ttf\\iranyekanwebbold(fanum).ttf"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\fonts\\iranyekan\\ttf\\iranyekanweblight(fanum).ttf",
+      "PackagePath": "staticwebassets\\admin\\dist\\fonts\\iranyekan\\ttf\\iranyekanweblight(fanum).ttf"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\fonts\\iranyekan\\ttf\\iranyekanwebregular(fanum).ttf",
+      "PackagePath": "staticwebassets\\admin\\dist\\fonts\\iranyekan\\ttf\\iranyekanwebregular(fanum).ttf"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\fonts\\iranyekan\\woff2\\iranyekanwebbold(fanum).woff2",
+      "PackagePath": "staticwebassets\\admin\\dist\\fonts\\iranyekan\\woff2\\iranyekanwebbold(fanum).woff2"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\fonts\\iranyekan\\woff2\\iranyekanweblight(fanum).woff2",
+      "PackagePath": "staticwebassets\\admin\\dist\\fonts\\iranyekan\\woff2\\iranyekanweblight(fanum).woff2"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\fonts\\iranyekan\\woff2\\iranyekanwebregular(fanum).woff2",
+      "PackagePath": "staticwebassets\\admin\\dist\\fonts\\iranyekan\\woff2\\iranyekanwebregular(fanum).woff2"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\fonts\\iranyekan\\woff\\iranyekanwebbold(fanum).woff",
+      "PackagePath": "staticwebassets\\admin\\dist\\fonts\\iranyekan\\woff\\iranyekanwebbold(fanum).woff"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\fonts\\iranyekan\\woff\\iranyekanweblight(fanum).woff",
+      "PackagePath": "staticwebassets\\admin\\dist\\fonts\\iranyekan\\woff\\iranyekanweblight(fanum).woff"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\img\\avatar04.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\avatar04.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\avatar2.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\avatar3.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\avatar5.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\boxed-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\boxed-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\img\\credit\\mestro.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\credit\\mestro.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\img\\default-50x50.gif",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\default-50x50.gif"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\img\\icons.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\icons.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\photo1.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\photo2.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\photo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\photo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin\\dist\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\admin\\dist\\js\\adminlte.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\admin\\dist\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\js\\demo.js",
+      "PackagePath": "staticwebassets\\admin\\dist\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\dist\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\admin\\dist\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\js\\persian-date-0.1.8.min.js",
+      "PackagePath": "staticwebassets\\admin\\dist\\js\\persian-date-0.1.8.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\js\\persian-date.js",
+      "PackagePath": "staticwebassets\\admin\\dist\\js\\persian-date.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\dist\\js\\persian-datepicker-0.4.5.min.js",
+      "PackagePath": "staticwebassets\\admin\\dist\\js\\persian-datepicker-0.4.5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\bootstrap-slider\\bootstrap-slider.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bootstrap-slider\\bootstrap-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\bootstrap-slider\\slider.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bootstrap-slider\\slider.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.min.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.min.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\all.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\flat\\_all.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\_all.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\flat\\aero.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\aero.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\flat\\aero.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\aero.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\flat\\aero@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\aero@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\flat\\blue.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\blue.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\flat\\blue.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\flat\\blue@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\blue@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\flat\\flat.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\flat.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\flat\\flat.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\flat.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\flat\\flat@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\flat@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\flat\\green.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\green.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\flat\\green.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\flat\\green@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\green@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\flat\\grey.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\grey.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\flat\\grey.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\grey.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\flat\\grey@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\grey@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\flat\\orange.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\orange.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\flat\\orange.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\orange.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\flat\\orange@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\orange@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\flat\\pink.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\pink.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\flat\\pink.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\pink.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\flat\\pink@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\pink@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\flat\\purple.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\purple.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\flat\\purple.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\purple.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\flat\\purple@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\purple@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\flat\\red.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\red.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\flat\\red.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\flat\\red@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\red@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\flat\\yellow.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\yellow.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\flat\\yellow.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\flat\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\flat\\yellow@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\futurico\\futurico.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\futurico\\futurico.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\futurico\\futurico.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\futurico\\futurico.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\futurico\\futurico@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\futurico\\futurico@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\icheck.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\icheck.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\icheck.min.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\icheck.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\line\\_all.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\line\\_all.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\line\\aero.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\line\\aero.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\line\\blue.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\line\\blue.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\line\\green.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\line\\green.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\line\\grey.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\line\\grey.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\line\\line.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\line\\line.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\line\\line.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\line\\line.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\line\\line@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\line\\line@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\line\\orange.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\line\\orange.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\line\\pink.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\line\\pink.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\line\\purple.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\line\\purple.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\line\\red.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\line\\red.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\line\\yellow.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\line\\yellow.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\minimal\\_all.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\_all.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\minimal\\aero.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\aero.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\minimal\\aero.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\aero.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\minimal\\aero@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\aero@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\minimal\\blue.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\blue.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\minimal\\blue.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\minimal\\blue@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\blue@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\minimal\\green.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\green.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\minimal\\green.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\minimal\\green@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\green@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\minimal\\grey.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\grey.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\minimal\\grey.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\grey.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\minimal\\grey@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\grey@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\minimal\\minimal.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\minimal.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\minimal\\minimal.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\minimal.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\minimal\\minimal@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\minimal@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\minimal\\orange.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\orange.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\minimal\\orange.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\orange.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\minimal\\orange@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\orange@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\minimal\\pink.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\pink.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\minimal\\pink.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\pink.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\minimal\\pink@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\pink@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\minimal\\purple.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\purple.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\minimal\\purple.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\purple.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\minimal\\purple@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\purple@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\minimal\\red.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\red.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\minimal\\red.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\minimal\\red@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\red@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\minimal\\yellow.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\yellow.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\minimal\\yellow.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\minimal\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\minimal\\yellow@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\polaris\\polaris.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\polaris\\polaris.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\polaris\\polaris.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\polaris\\polaris.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\polaris\\polaris@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\polaris\\polaris@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\square\\_all.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\_all.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\square\\aero.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\aero.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\square\\aero.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\aero.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\square\\aero@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\aero@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\square\\blue.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\blue.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\square\\blue.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\square\\blue@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\blue@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\square\\green.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\green.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\square\\green.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\square\\green@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\green@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\square\\grey.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\grey.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\square\\grey.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\grey.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\square\\grey@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\grey@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\square\\orange.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\orange.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\square\\orange.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\orange.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\square\\orange@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\orange@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\square\\pink.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\pink.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\square\\pink.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\pink.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\square\\pink@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\pink@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\square\\purple.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\purple.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\square\\purple.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\purple.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\square\\purple@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\purple@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\square\\red.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\red.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\square\\red.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\square\\red@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\red@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\square\\square.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\square.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\square\\square.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\square.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\square\\square@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\square@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\square\\yellow.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\yellow.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\square\\yellow.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\iCheck\\square\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\admin\\plugins\\iCheck\\square\\yellow@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\input-mask\\jquery.inputmask.date.extensions.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\input-mask\\jquery.inputmask.date.extensions.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\input-mask\\jquery.inputmask.extensions.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\input-mask\\jquery.inputmask.extensions.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\input-mask\\jquery.inputmask.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\input-mask\\jquery.inputmask.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\input-mask\\jquery.inputmask.numeric.extensions.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\input-mask\\jquery.inputmask.numeric.extensions.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\input-mask\\jquery.inputmask.phone.extensions.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\input-mask\\jquery.inputmask.phone.extensions.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\input-mask\\jquery.inputmask.regex.extensions.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\input-mask\\jquery.inputmask.regex.extensions.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\input-mask\\phone-codes\\phone-be.json",
+      "PackagePath": "staticwebassets\\admin\\plugins\\input-mask\\phone-codes\\phone-be.json"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\input-mask\\phone-codes\\phone-codes.json",
+      "PackagePath": "staticwebassets\\admin\\plugins\\input-mask\\phone-codes\\phone-codes.json"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\input-mask\\phone-codes\\readme.txt",
+      "PackagePath": "staticwebassets\\admin\\plugins\\input-mask\\phone-codes\\readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\jQueryUI\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\jQueryUI\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\jQueryUI\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\jQueryUI\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\jvectormap\\jquery-jvectormap-1.2.2.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\jvectormap\\jquery-jvectormap-1.2.2.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\jvectormap\\jquery-jvectormap-1.2.2.min.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\jvectormap\\jquery-jvectormap-1.2.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\jvectormap\\jquery-jvectormap-usa-en.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\jvectormap\\jquery-jvectormap-usa-en.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\jvectormap\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\jvectormap\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\pace\\pace.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\pace\\pace.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\pace\\pace.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\pace\\pace.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\pace\\pace.min.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\pace\\pace.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\pace\\pace.min.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\pace\\pace.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\timepicker\\bootstrap-timepicker.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\timepicker\\bootstrap-timepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\timepicker\\bootstrap-timepicker.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\timepicker\\bootstrap-timepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\timepicker\\bootstrap-timepicker.min.css",
+      "PackagePath": "staticwebassets\\admin\\plugins\\timepicker\\bootstrap-timepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\admin\\plugins\\timepicker\\bootstrap-timepicker.min.js",
+      "PackagePath": "staticwebassets\\admin\\plugins\\timepicker\\bootstrap-timepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\authLayout\\css\\main.css",
+      "PackagePath": "staticwebassets\\authLayout\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\css\\colors\\cyan.css",
+      "PackagePath": "staticwebassets\\css\\colors\\cyan.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\css\\colors\\orange.css",
+      "PackagePath": "staticwebassets\\css\\colors\\orange.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\css\\colors\\pink.css",
+      "PackagePath": "staticwebassets\\css\\colors\\pink.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\css\\colors\\red.css",
+      "PackagePath": "staticwebassets\\css\\colors\\red.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\css\\colors\\violet.css",
+      "PackagePath": "staticwebassets\\css\\colors\\violet.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\css\\font-icons.css",
+      "PackagePath": "staticwebassets\\css\\font-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\css\\owl-carousel\\AjaxLoader.gif",
+      "PackagePath": "staticwebassets\\css\\owl-carousel\\AjaxLoader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\css\\owl-carousel\\Thumbs.db",
+      "PackagePath": "staticwebassets\\css\\owl-carousel\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\css\\owl-carousel\\grabbing.png",
+      "PackagePath": "staticwebassets\\css\\owl-carousel\\grabbing.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\fonts\\IRANSans\\eot\\IRANSansWeb.eot",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\eot\\IRANSansWeb.eot"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\fonts\\IRANSans\\eot\\IRANSansWeb_Black.eot",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\eot\\IRANSansWeb_Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\fonts\\IRANSans\\eot\\IRANSansWeb_Bold.eot",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\eot\\IRANSansWeb_Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\fonts\\IRANSans\\eot\\IRANSansWeb_Light.eot",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\eot\\IRANSansWeb_Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\fonts\\IRANSans\\eot\\IRANSansWeb_Medium.eot",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\eot\\IRANSansWeb_Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\fonts\\IRANSans\\eot\\IRANSansWeb_UltraLight.eot",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\eot\\IRANSansWeb_UltraLight.eot"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\fonts\\IRANSans\\ttf\\IRANSansWeb.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\ttf\\IRANSansWeb.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\fonts\\IRANSans\\ttf\\IRANSansWeb_Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\ttf\\IRANSansWeb_Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\fonts\\IRANSans\\ttf\\IRANSansWeb_Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\ttf\\IRANSansWeb_Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\fonts\\IRANSans\\ttf\\IRANSansWeb_Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\ttf\\IRANSansWeb_Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\fonts\\IRANSans\\ttf\\IRANSansWeb_Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\ttf\\IRANSansWeb_Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\fonts\\IRANSans\\ttf\\IRANSansWeb_UltraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\ttf\\IRANSansWeb_UltraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\fonts\\IRANSans\\woff2\\IRANSansWeb.woff2",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff2\\IRANSansWeb.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\fonts\\IRANSans\\woff2\\IRANSansWeb_Black.woff2",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff2\\IRANSansWeb_Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\fonts\\IRANSans\\woff2\\IRANSansWeb_Bold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff2\\IRANSansWeb_Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\fonts\\IRANSans\\woff2\\IRANSansWeb_Light.woff2",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff2\\IRANSansWeb_Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\fonts\\IRANSans\\woff2\\IRANSansWeb_Medium.woff2",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff2\\IRANSansWeb_Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\fonts\\IRANSans\\woff2\\IRANSansWeb_UltraLight.woff2",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff2\\IRANSansWeb_UltraLight.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\fonts\\IRANSans\\woff\\IRANSansWeb.woff",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff\\IRANSansWeb.woff"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\fonts\\IRANSans\\woff\\IRANSansWeb_Black.woff",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff\\IRANSansWeb_Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\fonts\\IRANSans\\woff\\IRANSansWeb_Bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff\\IRANSansWeb_Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\fonts\\IRANSans\\woff\\IRANSansWeb_Light.woff",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff\\IRANSansWeb_Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\fonts\\IRANSans\\woff\\IRANSansWeb_Medium.woff",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff\\IRANSansWeb_Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\fonts\\IRANSans\\woff\\IRANSansWeb_UltraLight.woff",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff\\IRANSansWeb_UltraLight.woff"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\fonts\\ui-icons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ui-icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\fonts\\ui-icons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ui-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\fonts\\ui-icons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ui-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\fonts\\ui-icons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ui-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\fonts\\ui-icons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\ui-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\img\\Thumbs.db",
+      "PackagePath": "staticwebassets\\img\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\img\\content\\Thumbs.db",
+      "PackagePath": "staticwebassets\\img\\content\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\img\\content\\about\\about_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\about\\about_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\img\\content\\cinema-banner.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\cinema-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\img\\content\\mag-1.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\mag-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\img\\content\\placeholder_300.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\placeholder_300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\img\\content\\placeholder_300_600.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\placeholder_300_600.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\img\\content\\placeholder_336.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\placeholder_336.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\img\\content\\placeholder_728.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\placeholder_728.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\img\\content\\placeholder_970.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\placeholder_970.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\img\\content\\placeholder_970_1.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\placeholder_970_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\img\\content\\single\\Huawei-Mate-X-4-610x380.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\single\\Huawei-Mate-X-4-610x380.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\img\\content\\single\\Huawei-Mate-X-6.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\single\\Huawei-Mate-X-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\img\\content\\thumb\\post-1.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\img\\content\\thumb\\post-2-2.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\img\\content\\thumb\\post-2.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\img\\content\\thumb\\post-3.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\img\\content\\thumb\\post-4.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\img\\content\\thumb\\post-5-2.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-5-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\img\\content\\thumb\\post-5.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\img\\content\\thumb\\post-6.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\img\\content\\thumb\\post-7.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\img\\content\\thumb\\post-8.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\img\\content\\thumb\\post-9.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\img\\default-avatar.png",
+      "PackagePath": "staticwebassets\\img\\default-avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\img\\dropdown.png",
+      "PackagePath": "staticwebassets\\img\\dropdown.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\img\\empty.png",
+      "PackagePath": "staticwebassets\\img\\empty.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\img\\map_pin.png",
+      "PackagePath": "staticwebassets\\img\\map_pin.png"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\js\\easing.min.js",
+      "PackagePath": "staticwebassets\\js\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\js\\flickity.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\flickity.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\js\\gmap3.min.js",
+      "PackagePath": "staticwebassets\\js\\gmap3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\js\\jquery.appear.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.appear.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\js\\jquery.newsTicker.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.newsTicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\js\\jquery.sticky-kit.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.sticky-kit.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\js\\lazysizes.min.js",
+      "PackagePath": "staticwebassets\\js\\lazysizes.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\js\\modernizr.min.js",
+      "PackagePath": "staticwebassets\\js\\modernizr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\js\\owl-carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl-carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\js\\twitterFetcher_min.js",
+      "PackagePath": "staticwebassets\\js\\twitterFetcher_min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Amir\\source\\repos\\Codeyad_Blog4\\Codeyad_Blog4\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Codeyad_Blog4.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Codeyad_Blog4.props",
+      "PackagePath": "build\\Codeyad_Blog4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Codeyad_Blog4.props",
+      "PackagePath": "buildMultiTargeting\\Codeyad_Blog4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Codeyad_Blog4.props",
+      "PackagePath": "buildTransitive\\Codeyad_Blog4.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

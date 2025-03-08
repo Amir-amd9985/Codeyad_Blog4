@@ -1,0 +1,17 @@
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\obj\Debug\net8.0\Codeyad_Blog4.CoreLayer.csproj.AssemblyReference.cache
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\obj\Debug\net8.0\Codeyad_Blog4.CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\obj\Debug\net8.0\Codeyad_Blog4.CoreLayer.AssemblyInfoInputs.cache
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\obj\Debug\net8.0\Codeyad_Blog4.CoreLayer.AssemblyInfo.cs
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\obj\Debug\net8.0\Codeyad_Blog4.CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\bin\Debug\net8.0\Codeyad_Blog4.CoreLayer.deps.json
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\bin\Debug\net8.0\Codeyad_Blog4.CoreLayer.runtimeconfig.json
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\bin\Debug\net8.0\Codeyad_Blog4.CoreLayer.dll
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\bin\Debug\net8.0\Codeyad_Blog4.CoreLayer.pdb
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\bin\Debug\net8.0\Codeyad_Blog4.DataLayer.dll
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\bin\Debug\net8.0\Codeyad_Blog4.DataLayer.pdb
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\obj\Debug\net8.0\Codeyad_.6210F552.Up2Date
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\obj\Debug\net8.0\Codeyad_Blog4.CoreLayer.dll
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\obj\Debug\net8.0\refint\Codeyad_Blog4.CoreLayer.dll
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\obj\Debug\net8.0\Codeyad_Blog4.CoreLayer.pdb
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\obj\Debug\net8.0\Codeyad_Blog4.CoreLayer.genruntimeconfig.cache
+C:\Users\Amir\source\repos\Codeyad_Blog4\CodeYad-Blog.CoreLayer\obj\Debug\net8.0\ref\Codeyad_Blog4.CoreLayer.dll

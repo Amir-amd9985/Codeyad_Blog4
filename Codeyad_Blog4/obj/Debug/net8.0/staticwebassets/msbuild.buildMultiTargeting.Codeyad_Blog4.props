@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Codeyad_Blog4.props" />
+</Project>
